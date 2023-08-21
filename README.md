@@ -8,3 +8,7 @@ La solución es otorgar un programa el cual solo las personas correspondientes e
 La arquitectura principalmente se encuentra con un login el cual cuanta con dos modalidades uno es el Admin el cual solo va a ser manipulado por el encargado de las tienditas (supervisor9, por la parte de manipulación en tienditas solo podrán guardar la fecha que se proporciona el artículo, nombre, número de empleado y la cantidad de artículos obtenidos por cada uno de los encargados.
 
 Pasando este requerimiento de seguridad se encuentra el programa el cual cuenta con la siguiente estructura: Guardar, modificar, eliminar, todo va relacionado con la tabla que se muestra a un costado la cual está ligada al personal de que se encuentra autorizado para realizar la recolección de este artículo. Esto como se mencionó anterior es un método de prevención de seguridad para monitoria este recurso el cual está generando un desperdicio muy abundante mensualmente se registra un porcentaje económico de $180,000.00 M.N.
+
+
+Video
+[![Alt text](https://img.youtube.com/vi/nMgheLNYH14/0.jpg)](https://www.youtube.com/watch?v=nMgheLNYH14)
